@@ -1,0 +1,5 @@
+Student Name-Kanika Sharma Mishra
+Student ID- Kanika (bitsom_ftai_2601299 )
+Public GitHub Repository Link- https://github.com/sharmakhcl-coder/Graded-Assignment-Quick-Pay-Fintech-Operations-Case-Study
+Short run instructions
+Tools used-CSV,Excel,SQL,collab research,Looker Studio
